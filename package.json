@@ -11,7 +11,7 @@
     },
     "dependencies": {
 	"nopt": "*",
-	"bdirito/consolehighlighter#windows": "^0.1.5",
+	"consolehighlighter": "bdirito/consolehighlighter#windows^0.1.5",
 	"marked-terminal": "^1.6.1"
     },
     "directories": {
